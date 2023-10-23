@@ -25,3 +25,6 @@
 ## SNS
 ### X (旧Twitter)
 - [@tutev_pr](https://twitter.com/tutev_pr)
+
+## Last Updated
+### 2023/10/23
